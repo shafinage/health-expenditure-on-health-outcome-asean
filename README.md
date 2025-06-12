@@ -48,5 +48,3 @@ Visualizations available in the `charts/` folder:
 
 Increased healthcare spending is correlated with better health outcomes, but the impact varies by country and timeline. Policymakers should consider structural healthcare factors along with expenditure.
 
-## 📂 Project Structure
-
