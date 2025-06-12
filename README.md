@@ -40,11 +40,16 @@ To determine whether health spending and GDP affect life expectancy and infant m
 
 ## 🖼️ Visualizations
 
-Visualizations available in the `charts/` folder:
-- Trend: health outcome, government health expenditure, and out-of-pocket
-- Comparison: Life expectancy to current health expenditure
+Visualizations and tables available:
+- EDA:
+  - Trend: health outcome, government health expenditure, and out-of-pocket
+  - Comparison: Life expectancy to current health expenditure
+- Findings:
+  - Stationarity, cointegration, cross-sectional dependence, panel unit root
+  - Panel ARDL: ASEAN and per income subgroups
+  - Dumitrecu-Hurlin causality
 
 ## 🧠 Conclusion
 
-Increased healthcare spending is correlated with better health outcomes, but the impact varies by country and timeline. Policymakers should consider structural healthcare factors along with expenditure.
+This study highlights the complex interplay between economic growth, health ex-penditure, and health outcomes in ASEAN countries. Effective health policies that address financing, inefficiencies, and inequities are essential for improving health outcomes and achieving universal health coverage in the region. By prioritizing eq-uitable and sustainable healthcare investments, ASEAN countries can enhance the health and well-being of their populations, contributing to broader economic and social development goals. 
 
